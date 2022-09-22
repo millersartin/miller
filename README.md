@@ -8,7 +8,7 @@ Life
 <img align="right" src="img/scene.png">
 
 🏫 [**Franklin Highschool**][fhs] 23'  
-👨‍💻 Check out my website at [mllr.tech](mllr.tech)
+👨‍💻 Check out my website at [**mllr.tech**](https://mllr.tech)
 
 [fhs]: https://www.wcs.edu/FHS
 
