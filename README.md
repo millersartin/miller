@@ -1,4 +1,4 @@
-t">Hi, I'm Miller</h1> 
+<h1 align="left">Hi, I'm Miller</h1> 
 Student, programmer and hobbyist interested in cybersecurity, linux, crypto and other emerging tech - aspiring computer scientist and software 
 entrepreneur.
 
