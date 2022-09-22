@@ -25,7 +25,7 @@ Skills
 ###### Learning: Flutter, Mobile Development, UI
 
 <h3 align="left">Connect with me:</h3>
-📫 Email me at **millersartin@gmail.com**   
+📫 Email me at [**millersartin@gmail.com**]     
 
 <p align="left">
 <a href="https://twitter.com/millersartin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="millersartin" height="30" width="40" /></a>
