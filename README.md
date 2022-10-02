@@ -5,7 +5,6 @@ entrepreneur.
 Life
 ----
 
-<img align="right" src="https://github.com/cszach/cszach/raw/master/img/scene.png">
 
 🏫 [**Franklin Highschool**][fhs] 23'  
 👨‍💻 Check out my website at [mllr.tech](mllr.tech)
