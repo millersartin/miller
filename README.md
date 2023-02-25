@@ -21,7 +21,7 @@ Skills
 👨‍💻 Server Operator 
 
 
-###### Learning: Flutter, Mobile Development, UI
+###### Studying programming, linux, cyber security 
 
 <h3 align="left">Connect with me:</h3>
 📫 Email me at millersartin@gmail.com
