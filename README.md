@@ -1,4 +1,4 @@
-<h2 align="center">Student focused on cybersecurity, linux and programming. I enjoy solving real world problems with code and computors. Passionate about open source things and privacy. </h2> 
+<h2 align="center">Student focused on cybersecurity, linux and programming. I enjoy solving real world problems with code and computers. Passionate about open source things and privacy. </h2> 
 <!-- Student, programmer and hobbyist interested in cybersecurity, linux, crypto and other emerging tech - aspiring computer scientist and software 
 entrepreneur. -->
 
