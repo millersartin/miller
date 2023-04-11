@@ -7,7 +7,7 @@ Life
 
 
 🏫 [**Franklin Highschool**][fhs] 23'  
-👨‍💻 Check out my website at [mllr.tech](mllr.tech)
+👨‍💻 Check out my website at [millersart.in](millersart.in)
 
 [fhs]: https://www.wcs.edu/FHS
 [42tm]: https://github.com/42tm
