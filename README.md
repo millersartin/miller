@@ -1,11 +1,3 @@
-<h2 align="center">Student focused on cyber security, Linux and programming. I enjoy solving real world problems with code and computers. Passionate about open source things and privacy.</h2> 
-<!-- Student, programmer and hobbyist interested in cybersecurity, linux, crypto and other emerging tech - aspiring computer scientist and software 
-entrepreneur. -->
-
-Life
-----
-
-
 🏫 [**Tennessee Tech**][TTU] 27'  
 👨‍💻 Check out my website at [millersart.in](millersart.in)
 
