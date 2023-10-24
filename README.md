@@ -6,10 +6,10 @@ Life
 ----
 
 
-🏫 [**Tennessee Tech**][TTU] 23'  
+🏫 [**Tennessee Tech**][TTU] 27'  
 👨‍💻 Check out my website at [millersart.in](millersart.in)
 
-[TTU]: https://www.wcs.edu/FHS
+[TTU]: https://www.tntech.edu/
 [42tm]: https://github.com/42tm
 [csug]: https://ur-csug.org
 [dandyhacks]: https://dandyhacks.net
