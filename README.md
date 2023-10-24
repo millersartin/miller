@@ -6,10 +6,10 @@ Life
 ----
 
 
-🏫 [**Franklin Highschool**][fhs] 23'  
+🏫 [**Tennessee Tech**][TTU] 23'  
 👨‍💻 Check out my website at [millersart.in](millersart.in)
 
-[fhs]: https://www.wcs.edu/FHS
+[TTU]: https://www.wcs.edu/FHS
 [42tm]: https://github.com/42tm
 [csug]: https://ur-csug.org
 [dandyhacks]: https://dandyhacks.net
