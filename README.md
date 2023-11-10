@@ -1,5 +1,5 @@
 🏫 [**Tennessee Tech**][TTU] 27'  
-👨‍💻 Check out my website at [millersart.in](millersart.in)
+👨‍💻 Check out my website at [millersart.in](https://millersart.in)
 
 [TTU]: https://www.tntech.edu/
 [42tm]: https://github.com/42tm
